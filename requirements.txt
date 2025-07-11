@@ -1,7 +1,7 @@
 cython
 jinja2
 Fabric39
-git+https://github.com/Automattic/pystorm.git@v3.1.4
+pystorm @ git+https://github.com/Automattic/pystorm.git@v3.1.4
 requests
 ruamel.yaml
 setuptools
